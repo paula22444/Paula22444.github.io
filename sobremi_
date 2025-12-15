@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Sobre mí</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+  body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin: 50px;
+  }
+  img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+  }
+</style>
+</head>
+<body>
+  <h1>Sobre mí</h1>
+  <img src="avaatar.jpg" alt="Mi avatar">
+</body>
+</html>
